@@ -1,5 +1,10 @@
 # 🚗 Egypt Used Car Price Predictor
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://egypt-used-car-price-predictor-kb3wpuepauf6nbo3dmjfxq.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 A machine learning-powered web application that estimates the market value of used cars in Egypt based on vehicle specifications and provides interactive market insights.
 
 **🌐 Live Demo:** https://egypt-used-car-price-predictor-kb3wpuepauf6nbo3dmjfxq.streamlit.app/
@@ -8,13 +13,13 @@ A machine learning-powered web application that estimates the market value of us
 
 ## Preview
 
-### Prediction Page
+### Prediction Tab
 
-![Home](images\home.png)
+![Home](images/home.png)
 
-### Market Insights
+### Market Insights Tab
 
-![Market Analysis](images\market-trends.png)
+![Market Analysis](images/market-trends.png)
 
 ---
 
@@ -27,7 +32,7 @@ A machine learning-powered web application that estimates the market value of us
 - 📦 Price distribution analysis
 - 🎨 Automatic default values based on the selected Brand & Model
 - ⚡ Fast inference using a trained machine learning pipeline
-- 🌙 Clean dark-themed Streamlit interface
+- ✨ Clean user-friendly interface
 
 ---
 
@@ -49,7 +54,7 @@ The prediction model uses:
 
 ## Machine Learning Pipeline
 
-The project follows a complete end-to-end machine learning workflow, 
+The project follows a complete **End-to-End machine learning workflow**, 
 covering every stage of a typical machine learning project, including:
 
 - Data Cleaning
@@ -200,11 +205,16 @@ Actual vehicle values may vary depending on vehicle condition, maintenance histo
 
 **Mazen Mahmoud**
 
-- GitHub: https://github.com/MazenSr
-- LinkedIn: https://www.linkedin.com/in/mazen-sr/
+- Contact: [mazen.mahmoud420409@gmail.com](mailto:mazen.mahmoud420409@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/mazen-mahmoud-ds
+
+---
+
+## Contribution
+Contributions are always welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ---
 
 ## License
 
-This project is intended for educational and portfolio purposes.
+This project is intended for educational purposes.
