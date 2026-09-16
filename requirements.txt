@@ -7,7 +7,7 @@ matplotlib
 seaborn
 scipy
 scikit-learn
-category-encoders
+category-encoders==2.6.3
 lightgbm
 xgboost
 statsmodels
